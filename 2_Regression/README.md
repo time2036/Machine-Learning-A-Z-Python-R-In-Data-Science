@@ -1,15 +1,31 @@
 # Part 2: Regression
 
-1. Simple Linear Regression
+## Simple Linear Regression
 
-1. Multiple Linear Regression
+## Multiple Linear Regression
+#### Assumptions of a Linear Regressions:
+1. Linearity
+1. Homoscedasticity
+1. Multivariate nomality
+1. Independence of errors
+1. Lack of multicollinearity
 
-1. Polynomial Regression
+#### Dummy Variables
 
-1. Support Vector Regression (SVR)
+#### Building A Model (Stepwise Regression: 2-4)
+1. All-in
+1. Backward Elimination
+1. Forward Selection
+1. Bidirectional Elimination
+1.  Score Comparision
 
-1. Decision Tree Regression
 
-1. Random Forest Regression
+## Polynomial Regression
 
-1. Evaluating Regression Models Performance
+## Support Vector Regression (SVR)
+
+## Decision Tree Regression
+
+## Random Forest Regression
+
+## Evaluating Regression Models Performance
