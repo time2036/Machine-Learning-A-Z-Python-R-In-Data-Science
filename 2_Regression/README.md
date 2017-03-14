@@ -19,6 +19,7 @@
 1. Bidirectional Elimination
 1.  Score Comparision
 
+![backward](https://github.com/time2036/Machine-Learning-A-Z-Python-R-In-Data-Science/blob/master/2_Regression/Backward.png)
 
 ## Polynomial Regression
 
